@@ -215,6 +215,3 @@ Summaries to include:
 
 **Your Name**
 GitHub: bhargavisimhadri
-
-
-Just tell me!
